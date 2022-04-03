@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hyo37009
 - 👀 I’m interested in AI programming. 
-- 🌱 I'm a college student majoring in Artificial Intelligence at university. I'm in my first year(2021).
-- 🔥 I'll do various project in 2022!
+- 🌱 I'm a college student majoring in Artificial Intelligence at university. I'm in my second year(2022).
+- 🔥 This year, I'm going to study image perception related to autonomous driving.
 
 <!---
 hyo37009/hyo37009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
