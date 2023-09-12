@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @hyo37009
-- 👀 I’m interested in Android FrontBack with Kotlin. 
+- 👀 I’m interested in Android FrontBack with Kotlin.
+- 😎 I'm not sure, but my goal is to launch a service this winter.
 - 🌱 I'm a college student majoring in Artificial Intelligence at university. I'm in my second year.
+- 
 - 🔥 This year, I'm going to study image perception related to autonomous driving.
 
 <!---
