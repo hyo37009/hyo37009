@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @hyo37009
-- 👀 I’m interested in Android with Kotlin.
-- 😎 I'm not sure, but my goal is to launch a service this winter.
-- 🌱 I'm a college student majoring in Artificial Intelligence at university. I'm in my second year.
+오, 3학년. 미래도 불투명하고 아는게 없는 3학년...
 
 <!---
 hyo37009/hyo37009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
