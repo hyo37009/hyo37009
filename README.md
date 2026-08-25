@@ -12,21 +12,12 @@
 
 ---
 
-<div align="center">
-
-📚 **대학, 부트캠프, 강의, 기술서 학습** 등과 함께한 흔적을 남기는 계정입니다.
-
-</div>
-
-<br/>
-
 ## 🔗 Links
 
 <div align="center">
 
 | | |
 |:---:|:---|
-| 🗂️ **Projects** | [nbh-4](https://github.com/nbh-4) *(차차 이전 예정)* |
 | ✍️ **Blog** | [hyo37009.github.io](https://hyo37009.github.io) |
 
 </div>
